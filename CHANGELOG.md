@@ -1,5 +1,11 @@
 # dataloader
 
+## 2.1.1
+
+### Patch Changes
+
+- [#252](https://github.com/graphql/dataloader/pull/252) [`fae38f1`](https://github.com/graphql/dataloader/commit/fae38f14702e925d1e59051d7e5cb3a9a78bfde8) Thanks [@LinusU](https://github.com/LinusU)! - Fix types for priming cache with promise
+
 ## 2.1.0
 
 ### Minor Changes
